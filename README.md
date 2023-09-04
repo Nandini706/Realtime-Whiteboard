@@ -30,7 +30,5 @@ node express.js
 ```
 
 ## Demo 
-
-This app is deployed at https://realtime-whiteboard-ankit.herokuapp.com/
 <br> <br>
-![Whiteboard by Ankit Pahwa](./demo.png "Whiteboard by Ankit Pahwa")
+![image](https://github.com/Nandini706/Realtime-Whiteboard/assets/112766474/4d455915-0b73-4127-983a-0948463920ab)
