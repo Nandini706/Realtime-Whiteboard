@@ -31,4 +31,4 @@ node express.js
 
 ## Demo 
 <br> <br>
-![image](https://github.com/Nandini706/Realtime-Whiteboard/assets/112766474/4d455915-0b73-4127-983a-0948463920ab)
+![image](https://github.com/Nandini706/Realtime-Whiteboard/blob/master/public/NewIcons/Screenshot%20(35).png)
